@@ -1,4 +1,4 @@
-# -Looping
+# JavaScript - 2 - Looping
 ```
 let myArray = [1, 2, 3, 4, 5];
 
